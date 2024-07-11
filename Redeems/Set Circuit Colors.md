@@ -16,4 +16,4 @@ You may use any of these color names in the redeem input. Note that they must be
 You may also specify a direct hex (hexadecimal) color value to use in the format `#RRGGBB`. The prefix `#` symbol is required when using this method.
 
 * Explanation of Hex Color Codes: https://www.pluralsight.com/blog/tutorials/understanding-hexadecimal-colors-simple
-* Hex color picker (brings up Google's native color picker): https://www.google.com/search?q=hex+color+picker
+* Hex Color Picker (brings up Google's native color picker): https://www.google.com/search?q=hex+color+picker
