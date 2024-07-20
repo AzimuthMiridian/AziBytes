@@ -3,6 +3,12 @@ This redeem lets you choose the eye and circuit colors my VTuber uses! This will
 
 The sections below explain the two different ways you can specify a color; if the provided input for the redeem does not follows the rules of either of these methods, then your redeem will automatically be refunded so you can try again.
 
+## Hex Color Code
+You may also specify a direct hex (hexadecimal) color value to use in the format `#RRGGBB`. The prefix `#` symbol is required when using this method.
+
+* Explanation of Hex Color Codes: https://www.pluralsight.com/blog/tutorials/understanding-hexadecimal-colors-simple
+* Hex Color Picker (brings up Google's native color picker): https://www.google.com/search?q=hex+color+picker
+
 ## Predefined Color List
 You may use any of these color names in the redeem input. Note that they must be spelled exactly as shown here, but are not case sensitive:
 
@@ -173,9 +179,3 @@ You may use any of these color names in the redeem input. Note that they must be
 | Linen            | #FAF0E6    | rgb(250, 240, 230)| ![#FAF0E6](https://placehold.co/15x15/FAF0E6/FAF0E6.png) |
 | LavenderBlush    | #FFF0F5    | rgb(255, 240, 245)| ![#FFF0F5](https://placehold.co/15x15/FFF0F5/FFF0F5.png) |
 | MistyRose        | #FFE4E1    | rgb(255, 228, 225)| ![#FFE4E1](https://placehold.co/15x15/FFE4E1/FFE4E1.png) |
-
-## Hex Color Code
-You may also specify a direct hex (hexadecimal) color value to use in the format `#RRGGBB`. The prefix `#` symbol is required when using this method.
-
-* Explanation of Hex Color Codes: https://www.pluralsight.com/blog/tutorials/understanding-hexadecimal-colors-simple
-* Hex Color Picker (brings up Google's native color picker): https://www.google.com/search?q=hex+color+picker
