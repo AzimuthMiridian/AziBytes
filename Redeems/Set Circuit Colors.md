@@ -1,16 +1,21 @@
 # Set Circuit Colors
-This redeem lets you choose the eye and circuit colors my VTuber uses! This will take effect immediately and will remain until the next time the redeem is used, the end of stream, or if I decide to change it manually myself (points will not be refunded in this last case).
+This redeem lets you choose the eye and circuit colors my VTuber uses! This will take effect immediately and will remain in effect until the next time the redeem is used, the end of stream, or if I decide to change it manually myself (points will not be refunded in this last case).
 
-The sections below explain the two different ways you can specify a color; if the provided input for the redeem does not follows the rules of either of these methods, then your redeem will automatically be refunded so you can try again.
+The two methods you may use for this are detailed below. If the provided input for the redeem does not follow the input rules for either of these methods, then the bot will let you know in chat and automatically refund your points so you can try again. Please be warned that there is an unavoidable cooldown even if your redeem is refunded as the bot is unable to reset redeem cooldowns (this is due to Twitch API limitations).
 
 ## Hex Color Code
-You may also specify a direct hex (hexadecimal) color value to use in the format `#RRGGBB`. The prefix `#` symbol is required when using this method.
+This first method is more complicated, but gives you precise control over the color. If you prefer something simpler, try the predefined color list section below.
 
-* Explanation of Hex Color Codes: https://www.pluralsight.com/blog/tutorials/understanding-hexadecimal-colors-simple
-* Hex Color Picker (brings up Google's native color picker): https://www.google.com/search?q=hex+color+picker
+In this method, you specify a direct hexadecimal color value to use in the format `#RRGGBB`. The leading `#` symbol is optional; however, if the bot rejects the redeem when including it, try removing it and see if that works instead (for those interested, some color picker websites use a non-standard `#` character which causes the C# code powering this redeem to consider it invalid). 
+
+Explaining the hex color codes is a bit beyond the scope of this little writeup, so check this site out if you'd like a fairly straightforward explanation of how they work:
+https://www.opusdesign.us/wordcount/what-are-hex-codes-for-colors
+
+To bring up a simple color picker from Google that lets you choose a color and then copy its hex code, click here:
+https://www.google.com/search?q=hex+color+picker
 
 ## Predefined Color List
-You may use any of these color names in the redeem input. Note that they must be spelled exactly as shown here, but are not case sensitive:
+You may also use any of these color names in the redeem input if you'd prefer something simpler than the hex color code method above. Note that they must be spelled exactly as shown here, but are not case sensitive:
 
 ### Reds
 | Color Name       | Hex        | RGB             | Color        |
